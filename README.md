@@ -7,6 +7,11 @@ Uploaded source code from two seperate Eclipse projects which tie together using
 
 Most of the code is commented to help you understand what's going on.
 
+###What it does:
+
+A java program run on tomcat to decypher Vigenere cyphered text.
+
+
 
 
 
